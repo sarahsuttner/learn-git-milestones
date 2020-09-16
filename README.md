@@ -71,22 +71,22 @@ You should be able to ...
 You should have a basic familiarity with the command line in case you need to do advanced Git commands. Many folks use the CLI for file editing, though I'm not going to make you suffer when we have Atom installed. You've used most of these already through a GUI (e.g. `git status`, `git add`, `git commit`, `git push`) ...
 
 
-- [ ] In Github Desktop, with the [learn-git-milestones](https://github.com/omundy/learn-git-milestones) repo you cloned above selected, click Repository > Open in Terminal ("Bash" in Windows?)
-- [ ] Use the CLI to navigate directories  
-  - [ ] List files in this directory: `ls`
-  - [ ] List files in this directory, including hidden: `ls -la`  
-  - [ ] Confirm the existence of the `.git` directory (where Git versions and config are stored)
-  - [ ] View your current directory and copy the full path: `pwd`
-  - [ ] Open this README file in Atom and paste that path here: **/Users/sarahsuttner/Desktop/critical_web_design/learn-git-milestones
+- [x] In Github Desktop, with the [learn-git-milestones](https://github.com/omundy/learn-git-milestones) repo you cloned above selected, click Repository > Open in Terminal ("Bash" in Windows?)
+- [x] Use the CLI to navigate directories  
+  - [x] List files in this directory: `ls`
+  - [x] List files in this directory, including hidden: `ls -la`  
+  - [x] Confirm the existence of the `.git` directory (where Git versions and config are stored)
+  - [x] View your current directory and copy the full path: `pwd`
+  - [x] Open this README file in Atom and paste that path here: **/Users/sarahsuttner/Desktop/critical_web_design/learn-git-milestones
 sarahs-air-2:learn-git-milestones sarahsuttner$**
-- [ ] Use Git on the CLI
-  - [ ] [Confirm](https://docs.github.com/en/github/using-git/setting-your-username-in-git) your name and email is correct in the Git config
-  - [ ] View the status of your repo: `git status`
-  - [ ] View the changed files of your repo: `git diff`
-  - [ ] Add all changed files to the staging area `git add .`
-  - [ ] View the status of your repo `git status` to confirm it has been staged
-  - [ ] Commit your changes with the message `commit #3 from CLI`
-  - [ ] Use `git push` to [push those changes to your remote repo](https://docs.github.com/en/github/using-git/pushing-commits-to-a-remote-repository)
+- [x] Use Git on the CLI
+  - [x] [Confirm](https://docs.github.com/en/github/using-git/setting-your-username-in-git) your name and email is correct in the Git config
+  - [x] View the status of your repo: `git status`
+  - [x] View the changed files of your repo: `git diff`
+  - [x] Add all changed files to the staging area `git add .`
+  - [x] View the status of your repo `git status` to confirm it has been staged
+  - [x] Commit your changes with the message `commit #3 from CLI`
+  - [x] Use `git push` to [push those changes to your remote repo](https://docs.github.com/en/github/using-git/pushing-commits-to-a-remote-repository)
 
 
 ### Git in Atom
@@ -94,14 +94,14 @@ You should be able to ...
 
 - [x] In Github Desktop, open this repo [learn-git-milestones](https://github.com/omundy/learn-git-milestones) in Atom: Repository > Open in Atom  
 - [x] In Atom, edit this README file and add your *third* favorite emoji here: 😞
-- [ ] Create a new file `hello.txt`, add some text and save it.
-- [ ] Display the Git panel (click the small Git button at the bottom right).
+- [x] Create a new file `hello.txt`, add some text and save it.
+- [x] Display the Git panel (click the small Git button at the bottom right).
 
 ![atom-git-menu](img/atom-git-menu.png)
 
-- [ ] Select on your file(s) in Unstaged changes and confirm your changes match what you expect to see
-- [ ] Double click on each file with changes to stage them  
-- [ ] Commit your changes directly to the master branch with the message `commit #4 from Atom`
+- [x] Select on your file(s) in Unstaged changes and confirm your changes match what you expect to see
+- [x] Double click on each file with changes to stage them  
+- [x] Commit your changes directly to the master branch with the message `commit #4 from Atom`
 
 
 
