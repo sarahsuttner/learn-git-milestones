@@ -24,14 +24,14 @@ Create a Github account and make your first commit
 - [x] [Create a Github account](https://github.com/join)
 - [x] Fork this repository [learn-git-milestones](https://github.com/omundy/learn-git-milestones) (click the Fork button, top right).
 - [x] Edit the README file (click the pencil icon) and add your favorite emoji here: **🤠**
-- [ ] Commit changes to the README file directly to the master branch with the message `commit #1 from Github.com`
-- [ ] View the commit history and confirm your edits
+- [x] Commit changes to the README file directly to the master branch with the message `commit #1 from Github.com`
+- [x] View the commit history and confirm your edits
 
 
 ### Git Installation
 Install your development environment
 
-- [ ] Install Git on your machine
+- [x] Install Git on your machine
 
 Windows: Install [Git for Windows](https://gitforwindows.org/) (includes [Git BASH](https://www.atlassian.com/git/tutorials/git-bash), its own version of the bash shell)
 
@@ -40,9 +40,9 @@ Mac:
 1. Install git using Homebrew `brew install git`
 1. Set your default shell to bash `chsh -s /bin/bash` - You'll be prompted to type a password. The command line doesn't give you feedback that you're typing. Just type your password and hit enter. Backspace a lot if you make a mistake.
 
-- [ ] On the command line, confirm Git is installed by typing `git` at the prompt and hitting enter
-- [ ] [Install Github Desktop](https://desktop.github.com/)
-- [ ] Connect your Github account in Githhub Desktop
+- [x] On the command line, confirm Git is installed by typing `git` at the prompt and hitting enter
+- [x] [Install Github Desktop](https://desktop.github.com/)
+- [x] Connect your Github account in Githhub Desktop
 
 
 
