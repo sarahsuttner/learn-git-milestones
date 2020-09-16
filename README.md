@@ -70,8 +70,6 @@ You should be able to ...
 ### Command line (CLI)
 You should have a basic familiarity with the command line in case you need to do advanced Git commands. Many folks use the CLI for file editing, though I'm not going to make you suffer when we have Atom installed. You've used most of these already through a GUI (e.g. `git status`, `git add`, `git commit`, `git push`) ...
 
-
-<<<<<<< HEAD
 - [x] In Github Desktop, with the [learn-git-milestones](https://github.com/omundy/learn-git-milestones) repo you cloned above selected, click Repository > Open in Terminal ("Bash" in Windows?)
 - [x] Use the CLI to navigate directories  
   - [x] List files in this directory: `ls`
