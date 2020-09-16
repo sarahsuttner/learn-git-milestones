@@ -64,7 +64,7 @@ You should be able to ...
 - [x] Commit your changes to the README file directly to the master branch with the message `commit #2 from Github Desktop`
 - [x] Click Push origin to push your changes back to remote repo  
 - [x] Confirm the changes to the README file were pushed: Choose Repository > View on Github
-- [ ] Click on the README file and then click on History to see the history of this file
+- [x] Click on the README file and then click on History to see the history of this file
 
 
 ### Command line (CLI)
