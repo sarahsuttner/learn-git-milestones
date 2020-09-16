@@ -71,6 +71,7 @@ You should be able to ...
 You should have a basic familiarity with the command line in case you need to do advanced Git commands. Many folks use the CLI for file editing, though I'm not going to make you suffer when we have Atom installed. You've used most of these already through a GUI (e.g. `git status`, `git add`, `git commit`, `git push`) ...
 
 
+<<<<<<< HEAD
 - [ ] In Github Desktop, with the [learn-git-milestones](https://github.com/omundy/learn-git-milestones) repo you cloned above selected, click Repository > Open in Terminal ("Bash" in Windows?)
 - [ ] Use the CLI to navigate directories  
   - [ ] List files in this directory: `ls`
@@ -79,6 +80,15 @@ You should have a basic familiarity with the command line in case you need to do
   - [ ] View your current directory and copy the full path: `pwd`
   - [ ] Open this README file in Atom and paste that path here: **/Users/sarahsuttner/Desktop/critical_web_design/learn-git-milestones
 sarahs-air-2:learn-git-milestones sarahsuttner$**
+=======
+- [x] In Github Desktop, with the [learn-git-milestones](https://github.com/omundy/learn-git-milestones) repo you cloned above selected, click Repository > Open in Terminal ("Bash" in Windows?)
+- [x] Use the CLI to navigate directories  
+  - [x] List files in this directory: `ls`
+  - [x] List files in this directory, including hidden: `ls -la`  
+  - [x] Confirm the existence of the `.git` directory (where Git versions and config are stored)
+  - [x] View your current directory and copy the full path: `pwd`
+  - [ ] Open this README file in Atom and paste that path here: **??**
+>>>>>>> 172d332d60c64fc0cd6e8e3483be7561b8096829
 - [ ] Use Git on the CLI
   - [ ] [Confirm](https://docs.github.com/en/github/using-git/setting-your-username-in-git) your name and email is correct in the Git config
   - [ ] View the status of your repo: `git status`
